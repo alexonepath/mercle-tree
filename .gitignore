@@ -1,0 +1,12 @@
+**/build/*
+**/dependency-reduced-pom.xml
+**/src-gen
+**/.idea
+.project
+out/*
+**/*.iml
+.gradle/
+.idea/
+gradlew
+gradlew.bat
+settings.gradle
